@@ -1,18 +1,20 @@
-# Paper Outline
+# Characterizing Seascapes taxonomically using OBIS Data over Florida Keys Area
 
-## TODO
+## Paper Outline
+
+### TODO
 + Identify spatiotemporal region-of-interests (RoIs) to use as case-studies
   + RoIs should have lots of data
   + RoIs should have a scientifically interesting “data story”
 + Identify potential publication venues
 
-## Notes
+### Notes
 + author list: 
   + Ayush Anand, 
   + (student from IMaRS or elsewhere)?, Maria?, Enrique?, Joaquin?, Matt Biddle, 
   + Tylar Murray
 
-## Outline
+### Outline
 + Seascapes overview
   + Seascapes are useful dimensional reduction technique for sat MODIS-based satellite products
   + Seascapes represent habitat classifications in terms of satellite-derived water parameters
